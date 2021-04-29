@@ -91,3 +91,5 @@ pytorch result:
 
 * Zero-copy technology (CPU/GPU memory copy) is used.
 
+For more models, please refer to [tensorrtx](https://github.com/wang-xinyu/tensorrtx)
+
